@@ -1,0 +1,10 @@
+boto3
+pandas
+prometheus-api-client
+prophet
+torch
+flask
+requests
+python-dateutil
+numpy
+pyyaml
